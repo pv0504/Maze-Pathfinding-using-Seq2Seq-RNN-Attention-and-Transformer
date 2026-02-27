@@ -95,53 +95,47 @@ python eval.py <model_path> <model_type> <input_csv> <output_csv>
 
 ## RNN with Bahdanau Attention – Qualitative Results
 
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_rnn_0.png" width="45%">
- <img src="assets/Predicted%20Path_rnn_0.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_rnn_1.png" width="45%">
- <img src="assets/Predicted%20Path_rnn_1.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_rnn_2.png" width="45%">
- <img src="assets/Predicted%20Path_rnn_2.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_rnn_3.png" width="45%">
- <img src="assets/Predicted%20Path_rnn_3.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_rnn_4.png" width="45%">
- <img src="assets/Predicted%20Path_rnn_4.png" width="45%">
-</p>
+<table align="center">
+<tr>
+<th>Ground Truth</th>
+<th>Predicted</th>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_rnn_0.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_rnn_0.png" width="350"></td>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_rnn_1.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_rnn_1.png" width="350"></td>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_rnn_2.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_rnn_2.png" width="350"></td>
+</tr>
+</table>
 
 ---
 
 ## Transformer – Qualitative Results
 
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_transformer_0.png" width="45%">
- <img src="assets/Predicted%20Path_transformer_0.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_transformer_1.png" width="45%">
- <img src="assets/Predicted%20Path_transformer_1.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_transformer_2.png" width="45%">
- <img src="assets/Predicted%20Path_transformer_2.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_transformer_3.png" width="45%">
- <img src="assets/Predicted%20Path_transformer_3.png" width="45%">
-</p>
-<p align="center">
- <img src="assets/Ground%20Truth%20Path_transformer_4.png" width="45%">
- <img src="assets/Predicted%20Path_transformer_4.png" width="45%">
-</p>
-
----
+<table align="center">
+<tr>
+<th>Ground Truth</th>
+<th>Predicted</th>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_transformer_0.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_transformer_0.png" width="350"></td>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_transformer_1.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_transformer_1.png" width="350"></td>
+</tr>
+<tr>
+<td><img src="assets/Ground%20Truth%20Path_transformer_2.png" width="350"></td>
+<td><img src="assets/Predicted%20Path_transformer_2.png" width="350"></td>
+</tr>
+</table>
 
 ## Training Curve
 
